@@ -1,0 +1,20 @@
+Linux
+AMD Ryzen 5 3600
+12
+256
+Windows
+Intel Core i5 10600k
+8
+512
+macOS
+Intel Core i9 10900k
+32
+2048
+Windows XP
+AMD Athlon 600
+2
+512
+Windows 7
+Intel Dual Core E5700
+2
+128
